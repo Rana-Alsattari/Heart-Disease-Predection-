@@ -1,0 +1,4 @@
+Dataset,New Column,Definition
+heart,risk_score,(cholesterol + blood_pressure) / age
+heart,lifestyle_score,0.6*smoking + 0.4*alcohol_intake
+heart,age_group,Age bucket categories

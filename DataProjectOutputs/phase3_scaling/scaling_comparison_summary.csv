@@ -1,0 +1,5 @@
+Dataset,Scaling Type,Rows,Columns
+Heart,Standard,1000,19
+Heart,Min-Max,1000,19
+Medical,Standard,1319,9
+Medical,Min-Max,1319,9

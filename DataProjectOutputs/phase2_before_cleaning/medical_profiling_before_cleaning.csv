@@ -1,0 +1,10 @@
+Column,Data Type,Missing Values,Missing %,Unique Values,Example Values,Invalid Values
+age,float64,140,10.61,75,['21.0' '55.0' '64.0'],0
+gender,float64,116,8.79,2,['1.0' '0.0'],0
+heart_rate,float64,139,10.54,78,['66.0' '94.0' '64.0'],0
+systolic_blood_pressure,float64,144,10.92,114,['98.0' '160.0' '120.0'],0
+diastolic_blood_pressure,float64,141,10.69,72,['83.0' '46.0' '77.0'],0
+blood_sugar,float64,135,10.24,238,['160.0' '296.0' '270.0'],0
+ck_mb,float64,138,10.46,656,['1.8' '6.75' '1.99'],0
+troponin,float64,139,10.54,327,['0.012' '1.06' '0.003'],0
+result,object,0,0.0,3,['negative' 'INVALID' 'positive'],65

@@ -1,0 +1,10 @@
+Column,Data Type,Missing Values,Missing %,Unique Values,Example Values
+age,float64,0,0.0,71,['58.0' '21.25' '55.0']
+gender,float64,0,0.0,2,['1.0' '0.0']
+heart_rate,float64,0,0.0,70,['66.0' '94.0' '64.0']
+systolic_blood_pressure,float64,0,0.0,106,['124.0' '98.0' '160.0']
+diastolic_blood_pressure,float64,0,0.0,69,['83.0' '46.0' '77.0']
+blood_sugar,float64,0,0.0,193,['160.0' '288.0' '270.0']
+ck_mb,float64,0,0.0,508,['1.8' '6.75' '1.99']
+troponin,float64,0,0.0,128,['0.012' '0.21349999999999997' '0.003']
+result,int64,0,0.0,2,['0' '1']
