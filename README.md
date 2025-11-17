@@ -174,3 +174,32 @@ The full project documentation, including methodology, transformations, visualiz
 
 The repository provides a complete data engineering pipeline for heart disease prediction, from raw data to final model performance dashboards. It demonstrates structured cleaning, transformation, merging, feature engineering, modeling, and visualization techniques, resulting in a reproducible and well-organized workflow.
 
+## Direct Access to Files and Folders
+
+### Main Files
+- [Project Report (PDF)](Heart%20Disease%20Prediction%20Report.pdf)
+- [Main Notebook (DE_Final.ipynb)](DE_Final.ipynb)
+
+### Raw and Cleaned Datasets
+- [Medicaldataset.csv](Medicaldataset.csv)
+- [heart_disease_dataset.csv](heart_disease_dataset.csv)
+- [heart_dataset_cleaned.csv](heart_dataset_cleaned.csv)
+- [heart_dataset_invalid.csv](heart_dataset_invalid.csv)
+- [medical_dataset_cleaned.csv](medical_dataset_cleaned.csv)
+- [medical_dataset_invalid.csv](medical_dataset_invalid.csv)
+- [data_missing.csv](data_missing.csv)
+- [data_missing_medical.csv](data_missing_medical.csv)
+
+### Data Engineering Pipeline Outputs
+- [Phase 1 – Extraction](DataProjectOutputs/phase1_extraction_simple/)
+- [Phase 2 – Before Cleaning](DataProjectOutputs/phase2_before_cleaning/)
+- [Phase 2 – After Cleaning](DataProjectOutputs/phase2_after_cleaning/)
+- [Phase 3 – Feature Engineering](DataProjectOutputs/phase3_feature_engineering/)
+- [Phase 3 – Integration](DataProjectOutputs/phase3_integration/)
+- [Phase 3 – Scaling](DataProjectOutputs/phase3_scaling/)
+- [Phase 3 – Visualizations](DataProjectOutputs/phase3_visualizations/)
+- [Phase 4 – Feature Selection](DataProjectOutputs/phase4_feature_selection_fixed/)
+- [Phase 4 – Visualizations](DataProjectOutputs/phase4_visualizations/)
+- [Phase 5 – Chi-Squared Tests](DataProjectOutputs/phase5_chi_squared/)
+- [Phase 6 – Model Comparison](DataProjectOutputs/phase6_model_comparison/)
+- [Phase 7 – Visual Dashboard](DataProjectOutputs/phase7_visual_dashboard/)
