@@ -1,4 +1,4 @@
-# Heart Disease Predection 
+
 # Heart Disease Prediction – Data Engineering and Machine Learning Pipeline
 
 This repository contains a complete end-to-end pipeline for predicting heart disease using structured medical and lifestyle data. The project includes extraction, cleaning, feature engineering, integration, scaling, model training, evaluation, and final predictive visualizations. The full academic report documenting every phase is included in the repository.
